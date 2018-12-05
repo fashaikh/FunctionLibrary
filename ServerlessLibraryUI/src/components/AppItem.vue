@@ -159,7 +159,7 @@ export default {
 .sample {
 position: relative;
     -webkit-box-shadow:  0px 2px 8px 1px rgba(0, 0, 0, 0.1);
-    box-shadow: 0px 2px 8px 1px rgba(0, 0, 0, 0.1;
+    box-shadow: 0px 2px 8px 1px rgba(0, 0, 0, 0.1);
     width: 95%;
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
